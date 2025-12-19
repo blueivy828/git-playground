@@ -1,3 +1,5 @@
-export const featureHeaderCommit = "feature header commit";
-export const featureFooterCommit = "feature footer commit";
-export const featureMenuCommit = "feature menu commit";
+const featureHeaderCommit = "feature header commit";
+const featureFooterCommit = "feature footer commit";
+const featureMenuCommit = "feature menu commit";
+
+export {};
